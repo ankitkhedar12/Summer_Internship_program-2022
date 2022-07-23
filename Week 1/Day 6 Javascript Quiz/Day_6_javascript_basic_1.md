@@ -108,4 +108,5 @@ var name="Khedar";
 document.getElementById("me").innerHTML=name;
 
 //HTML
-<p id="me"></p>
+
+//<p id="me"></p>
